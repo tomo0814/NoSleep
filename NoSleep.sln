@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSleep", "NoSleep\NoSleep.csproj", "{FD174067-1A50-4D79-B7E7-8328EF2D8FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD174067-1A50-4D79-B7E7-8328EF2D8FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD174067-1A50-4D79-B7E7-8328EF2D8FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD174067-1A50-4D79-B7E7-8328EF2D8FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD174067-1A50-4D79-B7E7-8328EF2D8FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F6FBD8-79F3-40F2-89DA-9F067770FF42}
+	EndGlobalSection
+EndGlobal
